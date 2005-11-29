@@ -1,0 +1,12 @@
+name: Test-use-ok
+version: 0.01
+abstract: Alternative to Test::More::use_ok
+author: Autrijus Tang <autrijus@autrijus.org>
+license: perl
+distribution_type: module
+requires:
+  Test::More: 0
+no_index:
+  directory:
+    - inc
+generated_by: Module::Install version 0.39
