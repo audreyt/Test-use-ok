@@ -1,3 +1,4 @@
+Changes
 inc/Module/Install.pm
 inc/Module/Install/Base.pm
 inc/Module/Install/Can.pm
@@ -11,5 +12,6 @@ lib/Test/use/ok.pm
 Makefile.PL
 MANIFEST			This list of files
 META.yml
+README
+SIGNATURE			Public-key signature (added by MakeMaker)
 t/01-basic.t
-SIGNATURE                                Public-key signature (added by MakeMaker)

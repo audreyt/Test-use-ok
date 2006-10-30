@@ -1,12 +1,14 @@
-name: Test-use-ok
-version: 0.01
 abstract: Alternative to Test::More::use_ok
-author: Autrijus Tang <autrijus@autrijus.org>
-license: perl
+author: ", 2006 by Audrey Tang <cpan@audreyt.org>."
 distribution_type: module
-requires:
-  Test::More: 0
-no_index:
-  directory:
+generated_by: Module::Install version 0.64
+license: perl
+name: Test-use-ok
+no_index: 
+  directory: 
     - inc
-generated_by: Module::Install version 0.39
+    - t
+requires: 
+  Test::More: 0
+  perl: 5.005
+version: 0.02
