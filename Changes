@@ -1,3 +1,14 @@
+[Changes for 0.10 - 2012-09-11]
+
+* LICENSING CHANGE: This compilation and all individual files in it
+  are now under the nullary CC0 1.0 Universal terms:
+
+  To the extent possible under law, 唐鳳 has waived all copyright and
+  related or neighboring rights to Test-use-ok.
+
+* Update t/01-basic.t to work with Test::Simple 0.98_02 and later.
+  Reported by andk++
+
 [Changes for 0.02 - 2006-10-30]
 
 * LICENSING CHANGE: This compilation and all individual files in it

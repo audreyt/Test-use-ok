@@ -1,0 +1,23 @@
+# NAME
+
+ok - Alternative to Test::More::use_ok
+
+# SYNOPSIS
+
+    use ok 'Some::Module';
+
+# DESCRIPTION
+
+With this module, simply change all `use_ok` in test scripts to `use ok`,
+and they will be executed at `BEGIN` time.
+
+Please see [Test::use::ok](http://search.cpan.org/perldoc?Test::use::ok) for the full description.
+
+# CC0 1.0 Universal
+
+To the extent possible under law, 唐鳳 has waived all copyright and related
+or neighboring rights to L<Test-use-ok>.
+
+This work is published from Taiwan.
+
+[http://creativecommons.org/publicdomain/zero/1.0](http://creativecommons.org/publicdomain/zero/1.0)
