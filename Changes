@@ -1,3 +1,8 @@
+[Changes for 0.11 - 2012-09-11]
+
+* Unbreak the dist by actually include Module::Package deps.
+  Reported by mst++
+
 [Changes for 0.10 - 2012-09-11]
 
 * LICENSING CHANGE: This compilation and all individual files in it
