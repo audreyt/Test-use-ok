@@ -4,6 +4,8 @@ $Test::use::ok::VERSION = '0.11';
 
 __END__
 
+=encoding utf8
+
 =head1 NAME
 
 Test::use::ok - Alternative to Test::More::use_ok
